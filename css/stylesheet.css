@@ -1,0 +1,48 @@
+<style type="text/css"> h2 {
+   font-family: Lobster, Monospace
+ }
+ 
+ .wraptocenter {
+   vertical-align: middle;
+ }
+
+.wraptoleft {
+  vertical-align: left;
+}
+ 
+ #home {
+   background: url("http://www.maintainwithfresh.com/images/office/office2.jpg");
+   background: size: cover;
+ }
+
+ #about {
+   background: url("https://helpx.adobe.com/content/dam/help/en/flash/how-to/flash-whatis-1408x792.jpg");
+   background: size: cover;
+}
+
+#portfolio {
+  background: url("http://www.planningdesign.co.uk/images/blog/%7BB257C27F-8B14-45C2-8A47-ED06E34447CD%7D_1.jpg");
+  background: size: cover;
+}
+
+#experience {
+  background: url("http://c-parity.com/wp-content/uploads/2012/01/hudson-yards-nyc-10-hudson-yards-open-office-view-south-dv-022012.jpg");
+    background: size: cover;
+}
+
+#contact {
+  background: url("http://7-themes.com/data_images/out/8/6793522-free-office-wallpaper.jpg");
+  background: size: cover;
+}
+.btn {
+  display: inline-block;
+  color: #000;
+  border: 2px outset rgba(0, 0, 0, 0.9);
+  background: #C0C0C0;
+  text-shadow: 1px 1px 1px rgba(0,0,0, 20);
+  box-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+  letter-spacing: 2px;
+  transition: 0.2s;
+}
+ 
+ </style>
